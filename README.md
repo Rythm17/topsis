@@ -4,7 +4,7 @@
 
 ## Installation
 
-sh
+
 pip install topsis-rythm-102218039
 
 
