@@ -1,6 +1,6 @@
 # TOPSIS
 
-Python library for dealing with Multiple Criteria Decision Making(MCDM) problems by using Technique for Order of Preference by Similarity to Ideal Solution(TOPSIS).
+The Python library for solving Multiple Criteria Decision Making (MCDM) problems using the Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS) is designed to facilitate decision-making by comparing alternatives based on multiple criteria and selecting the best option.
 
 ## Installation
 
